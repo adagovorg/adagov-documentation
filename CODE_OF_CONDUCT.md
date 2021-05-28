@@ -8,7 +8,11 @@
 
 ... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity
 
-## Our Standards
+
+
+## Our Standards - Disagree without being disagreeable
+
+Catalyst emphasizes good intent - whilst the contributor covenant is more stipulative.
 
 Examples of behavior that contributes to a positive environment for our
 community include:
