@@ -1,18 +1,12 @@
 # THIS IS A DRAFT
 
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## Diversity of identity and viewpoint
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+... Diversity ensures that a community does not stagnate into a monoculture of thought 
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity
 
 ## Our Standards
 
