@@ -1,7 +1,9 @@
-Our [Project Name] Open-Source Documentation
+## Our [Project Name] Open-Source Documentation
 
 This is both a store and training materials for [Project Name] documentation repository.
+
 This file is the main README file which provides the first overview of a repository.
+
 •	A GitHub guide to documenting a project using README files and Wikis
 •	Project name: [Project Name]
 •	Description: A short description of [Project Name]. Why it is useful and what it does.
