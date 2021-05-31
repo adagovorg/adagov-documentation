@@ -1,6 +1,8 @@
 [![GitHub open issues](https://img.shields.io/github/issues/adagovorg/documentation?style=flat-square)](https://github.com/adagovorg/documentation/issues)
-[![GitHub milestones](https://img.shields.io/github/milestones/open/adagovorg/documentation?style=flat-square)](https://github.com/adagovorg/documentation/milestones)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/adagovorg/documentation?style=flat-square)](https://github.com/adagovorg/documentation/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/adagovorg/documentation)](https://github.com/adagovorg/documentation/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/adagovorg/documentation)](https://github.com/adagovorg/documentation/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub milestones](https://img.shields.io/github/milestones/open/adagovorg/documentation?style=flat-square)](https://github.com/adagovorg/documentation/milestones)
 
 
 ## Our [Project Name] Open-Source Documentation
