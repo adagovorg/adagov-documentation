@@ -5,9 +5,9 @@
 [![GitHub milestones](https://img.shields.io/github/milestones/open/adagovorg/documentation?style=flat-square)](https://github.com/adagovorg/documentation/milestones)
 
 
-## Our [Project Name] Open-Source Documentation
+## Adagov.org Open-Source Documentation
 
-This repository is both a store of documentation and training materials for [Project Name].
+This repository is both a store of documentation and training materials for Adagov.org.
 
 This file is the main README file which provides the first overview of a repository.
 
