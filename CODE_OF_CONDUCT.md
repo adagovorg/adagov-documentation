@@ -2,13 +2,11 @@
 
 # Code of Conduct
 
-## Diversity of identity and viewpoint
+## Diversity of identity and thought.
 
-... Diversity ensures that a community does not stagnate into a monoculture of thought 
+... Diversity ensures that a community does not stagnate into a monoculture of identity or thought.
 
-... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity
-
-
+"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, Catalyst Community Moderation Guidelines.
 
 ## Our Standards - Disagree without being disagreeable
 
