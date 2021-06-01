@@ -6,6 +6,7 @@
 
 
 ## Adagov.org Open-Source Documentation
+*Humane Engineering and Design toward Human Collective Super-Intelligence*
 
 This repository is both a store of documentation and training materials for Adagov.org.
 
@@ -18,9 +19,15 @@ This file is the main README file which provides the first overview of a reposit
 
 [A GitHub guide to documenting a project using README files and Wikis](https://guides.github.com/features/wikis/)
 
--	Project name: [Project Name]
--	Description: A short description of [Project Name]. Why it is useful and what it does.
--	Table of Contents: A optional table of contents for longer README files.
--	Contributing: A summary of how to contribute with a link to a more detailed Contribution file.
--	Credits: The main participants in/contributors to [Project Name].
--	License: The Open-Source License - why you choose it and a link to it.
+## AdaGov.org
+
+
+## Description: A short description of AdaGov.org. Why it is useful and what it does.
+
+## Table of Contents: A optional table of contents for longer README files.
+
+## Contributing: A summary of how to contribute with a link to a more detailed Contribution file.
+
+## Credits: The main participants in/contributors to [Project Name].
+
+## License: The Open-Source License - why you choose it and a link to it.
