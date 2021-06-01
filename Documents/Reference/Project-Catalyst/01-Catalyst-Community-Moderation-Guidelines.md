@@ -7,6 +7,7 @@ To make sure that Project Catalyst thrives, it is essential we encourage the bes
 
 ## Citizenship
 *Remember we're all in this together*
+
 The point of decentralization is ensuring that everyone has a level playing field to collaborate, regardless of where they were born, what they believe, and how they identify. It is important for developers to show experience relevant to their proposal. However, evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity. The innovation platform was created to leave prejudice behind in order to find ideas which address the fund challenge. Be good citizens and treat everyone with respect.
 
 ## Support
@@ -30,26 +31,35 @@ The point of decentralization is ensuring that everyone has a level playing fiel
 **Recognize and credit where it is due.** Parallel thinking and independent invention happens in technology. However, when someone generates an idea it is crucial that they are credited. Establishing this standard ensures that everyone benefits from innovation while bolstering individual thought leaders.
 
 ## Security
-Hold yourself and others to high standards
+*Hold yourself and others to high standards*
 
-Prevent harassment. Any action taken to intimidate or attack an individual or a project is unacceptable. Not only does this harm the community, it is unproductive to the platform. Physical, mental, emotional, and sexual abuse are entirely unacceptable and anyone participating in these behaviors will be referred to moderators.
-Extinguish threats. Legal, physical, and emotional threats have no place on the innovation platform. This is a space where people are free to make mistakes in the full support of the community. To do this everyone must feel safe.
-Leave the trolling behind. We are building a financial and social operating system for the next century. Trolling is unproductive at best and destructive at worst. 
-Share the power. There is an enormous spectrum of individuals represented in the Cardano ecosystem. Using one’s personal resources to attack, discredit, or harm another project will not be allowed on the innovation platform. Decentralized governance is about sharing power and pushing it to the edges rather than siloing it at the center.
+**Prevent harassment.** Any action taken to intimidate or attack an individual or a project is unacceptable. Not only does this harm the community, it is unproductive to the platform. Physical, mental, emotional, and sexual abuse are entirely unacceptable and anyone participating in these behaviors will be referred to moderators.
+
+**Extinguish threats.** Legal, physical, and emotional threats have no place on the innovation platform. This is a space where people are free to make mistakes in the full support of the community. To do this everyone must feel safe.
+
+**Leave the trolling behind.** We are building a financial and social operating system for the next century. Trolling is unproductive at best and destructive at worst. 
+
+**Share the power.** There is an enormous spectrum of individuals represented in the Cardano ecosystem. Using one’s personal resources to attack, discredit, or harm another project will not be allowed on the innovation platform. Decentralized governance is about sharing power and pushing it to the edges rather than siloing it at the center.
 
 ## Remediation
-
-Create a level playing field
+*Create a level playing field*
 
 Our goal should be to create a self-correcting community which continually polices and challenges belligerent and unproductive behavior However, in the case that these community guidelines are broken, IOHK reserves the right to take corrective action. This remediation will occur in an escalating fashion to ensure that the least invasive corrective is used. 
-Reminder of guidelines. After an infraction those who have committed a breach will be reminded of the guidelines.
-First warning. If the behavior continues a written warning will be issued.
-Temporary ban. Activity on the innovation platform will be stopped temporarily for offending parties in case belligerent behavior continues.
-Permanent ban. An abusive participant will be removed from the platform.
+
+**Reminder of guidelines.** After an infraction those who have committed a breach will be reminded of the guidelines.
+
+**First warning.** If the behavior continues a written warning will be issued.
+
+**Temporary ban.** Activity on the innovation platform will be stopped temporarily for offending parties in case belligerent behavior continues.
+
+**Permanent ban.** An abusive participant will be removed from the platform.
 
 IOHK reserves the right to ban any user from our innovation platform. Any comment(s) posted which we deem to be criminal in nature, instigates, implies violence toward oneself or another may be reported to the proper authorities. Insults, threats or harassment of other users, organizations or employees (neither direct nor metaphorical) are prohibited.
 
 IOHK reserves its right to delete any post or comment that:
-Are defamatory, indecent, hateful, racist, xenophobic, homophobic, sexist, vulgar or inappropriate.
-Encourage or suggest illegal activity, promote political organizations, or fail to make a relevant point.
-Promotes scam schemes or spam.
+
+- Are defamatory, indecent, hateful, racist, xenophobic, homophobic, sexist, vulgar or inappropriate.
+
+- Encourage or suggest illegal activity, promote political organizations, or fail to make a relevant point.
+
+- Promotes scam schemes or spam.
