@@ -12,7 +12,7 @@ This repository is both a store of documentation and training materials for Adag
 
 ## Discussions
 
-[Participate in discussions and to learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions/7)
+[Participate in discussions and to learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
 
 ## Overview
 This file is the main README file which provides the first overview of a repository.
