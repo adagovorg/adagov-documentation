@@ -14,7 +14,7 @@ This repository is both a store of documentation and training materials for Adag
 
 - [Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
 
-- [Discussion of the iniatl setup of this repository](https://github.com/adagovorg/adagov-documentation/discussions/15)
+- [Discussion of the initial setup of this repository](https://github.com/adagovorg/adagov-documentation/discussions/15)
 
 ## Description: 
 A short description of AdaGov.org. Why it is useful and what it does.
