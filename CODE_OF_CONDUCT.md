@@ -8,13 +8,11 @@
 
 "... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#citizenship).
 
-## Our Standards - Disagree without being disagreeable
+## Our Standards 
 
-Catalyst Community Moderation Guidelines emphasize good intent.
+Catalyst Community Moderation Guidelines seek to *Disagree without being disagreeable* and emphasizes *Assume good intent, Listen first, Lead with honesty and Practice civility.*
 
-The Contributor Covenant is more prescriptive.
-
-The Contribute Covenant gives [examples of behaviour](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#our-standards) that contribute to a postive environment (such as Demonstrating empathy and kindness, Being respectful of differing opinions, Accepting responsibility and Focusing on what is best for the overall community) and examples of unacceptable behavior (such as use of sexualized language or imagery, Trolling, insulting or derogatory comments, harassment, publishing private information and inappropriate conduct).
+The Contributor Covenant is more prescriptive and gives [examples of behaviour](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#our-standards) that contribute to a postive environment (such as *Demonstrating empathy and kindness, Being respectful of differing opinions, Accepting responsibility and Focusing on what is best for the overall community*) and examples of unacceptable behavior (such as *use of sexualized language or imagery, Trolling, insulting or derogatory comments, harassment, publishing private information and inappropriate conduct*).
 
 
 ## Enforcement Responsibilities
