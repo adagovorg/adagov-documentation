@@ -12,15 +12,9 @@ This repository is both a store of documentation and training materials for Adag
 
 ## Discussions
 
-[Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
+- [Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
 
-## Overview
-This file is the main README file which provides the first overview of a repository.
-
-[A GitHub guide to documenting a project using README files and Wikis](https://guides.github.com/features/wikis/)
-
-## AdaGov.org
-
+- [Discussion of the iniatl setup of this repository](https://github.com/adagovorg/adagov-documentation/discussions/15)
 
 ## Description: 
 A short description of AdaGov.org. Why it is useful and what it does.
