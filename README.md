@@ -7,6 +7,7 @@
 
 ## Adagov.org Open-Source Documentation
 *Humane Engineering and Design toward Human Collective Super-Intelligence*
+TODO - A short description of AdaGov.org. Why it is useful and what it does.
 
 This repository is both a store of documentation and training materials for Adagov.org.
 
@@ -15,9 +16,6 @@ This repository is both a store of documentation and training materials for Adag
 - [Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
 
 - [Discussion of the initial setup of this repository](https://github.com/adagovorg/adagov-documentation/discussions/15)
-
-## Description: 
-A short description of AdaGov.org. Why it is useful and what it does.
 
 ## Current Activity :
 The focus of current activity is drafting a Code of Conduct
