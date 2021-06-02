@@ -7,7 +7,7 @@
 
 ## Adagov.org Open-Source Documentation
 *Humane Engineering and Design toward Human Collective Super-Intelligence*
-TODO - A short description of AdaGov.org. Why it is useful and what it does.
+- TODO - A short description of AdaGov.org. Why it is useful and what it does.
 
 This repository is both a store of documentation and training materials for Adagov.org.
 
