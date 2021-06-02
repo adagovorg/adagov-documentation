@@ -6,19 +6,19 @@
 
 ... Diversity ensures that a community does not stagnate into a monoculture of identity or thought.
 
-"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#citizenship).
+"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#citizenship).
 
 ## Our Standards 
 
-Catalyst Community Moderation Guidelines on [Support](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#support) seek to *Disagree without being disagreeable* and emphasizes *Assume good intent, Listen first, Lead with honesty and Practice civility.*
+Catalyst Community Moderation Guidelines on [Support](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#support) seek to *Disagree without being disagreeable* and emphasizes *Assume good intent, Listen first, Lead with honesty and Practice civility.*
 
-The Contributor Covenant is more prescriptive and gives [examples of behaviour](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#our-standards) that contribute to a postive environment (such as *Demonstrating empathy and kindness, Being respectful of differing opinions, Accepting responsibility and Focusing on what is best for the overall community*) and examples of unacceptable behavior (such as *use of sexualized language or imagery, Trolling, insulting or derogatory comments, harassment, publishing private information and inappropriate conduct*).
+The Contributor Covenant is more prescriptive and gives [examples of behaviour](Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#our-standards) that contribute to a postive environment (such as *Demonstrating empathy and kindness, Being respectful of differing opinions, Accepting responsibility and Focusing on what is best for the overall community*) and examples of unacceptable behavior (such as *use of sexualized language or imagery, Trolling, insulting or derogatory comments, harassment, publishing private information and inappropriate conduct*).
 
 ## Security
 
-Catalyst Community Moderation Guidelines emphasise self-regulation, to *Hold yourself and others to high standards* in matters of [security](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#security) and to be proactive in *Preventing harassment, Extinguishing threats, Leaving the trolling behind and Sharing the power.*
+Catalyst Community Moderation Guidelines emphasise self-regulation, to *Hold yourself and others to high standards* in matters of [security](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#security) and to be proactive in *Preventing harassment, Extinguishing threats, Leaving the trolling behind and Sharing the power.*
 
-The Contributor Covenant charatersies securiry in terms of [Enforcement Responsibilities](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#enforcement-responsibilities) and requires Community leaders to be "*responsible for clarifying and enforcing our standards of acceptable behavior ...*".
+The Contributor Covenant charatersies securiry in terms of [Enforcement Responsibilities](Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#enforcement-responsibilities) and requires Community leaders to be "*responsible for clarifying and enforcing our standards of acceptable behavior ...*".
 
 ## Scope
 
@@ -28,69 +28,6 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
-## Enforcement
+## Remediation / Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
-
-All **Key groups (TBA)** are obligated to respect the privacy and security of the
-reporter of any incident.
-
-## Enforcement Guidelines (contributor covenant) - Remediation (Catalyst Community Moderation)
-
-### 1. Correction
-
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+Catalyst Community Moderation Guidelines describe enforcement as [Remediation](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#remediation)
