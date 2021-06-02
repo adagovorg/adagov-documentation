@@ -22,7 +22,7 @@ The focus of current activity is drafting a Code of Conduct
 - [Discussion of the draft Code of Conduct](https://github.com/adagovorg/adagov-documentation/discussions/19)
 
 ## Contributing: 
-A summary of how to contribute with a link to a more detailed [Contribution file](adagovorg/adagov-documentation/blob/main/CONTRIBUTE.md).
+A summary of how to contribute with a link to a more detailed [Contribution file](CONTRIBUTE.md).
 
 ## Credits: 
 The main participants in/contributors to Adagov.org.
