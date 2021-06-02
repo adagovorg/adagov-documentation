@@ -10,7 +10,7 @@
 
 ## Our Standards - Disagree without being disagreeable
 
-Catalyst emphasizes good intent - whilst the contributor covenant is more stipulative.
+Catalyst emphasizes good intent - whilst the contributor covenant is more prescriptive.
 
 Examples of behavior that contributes to a positive environment for our
 community include:
@@ -64,10 +64,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 All **Key groups (TBA)** are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
-
-**Key groups (TBA)** will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## Enforcement Guidelines (contributor covenant) - Remediation (Catalyst Community Moderation)
 
 ### 1. Correction
 
