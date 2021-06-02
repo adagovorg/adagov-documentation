@@ -20,14 +20,7 @@ Catalyst Community Moderation Guidelines emphasise self-regulation, to *Hold you
 
 The Contributor Covenant charatersies securiry in terms of [Enforcement Responsibilities](Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#enforcement-responsibilities) and requires Community leaders to be "*responsible for clarifying and enforcing our standards of acceptable behavior ...*".
 
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
 
 ## Remediation / Enforcement
 
-Catalyst Community Moderation Guidelines describe enforcement as [Remediation](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#remediation)
+Catalyst Community Moderation Guidelines emphasises *Create a level playing field* and describes enforcement as [Remediation](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#remediation). The levels of *Remediation* escalte from a *Reminder of guidelines*, through *First warning*, then a *Temporary ban* through to a *Permanent ban*.
