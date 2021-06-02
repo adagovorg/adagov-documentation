@@ -12,7 +12,7 @@ This repository is both a store of documentation and training materials for Adag
 
 ## Discussions
 
-[Participate in discussions and to learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
+[Participate in discussions and learn about how this repository is being built.](https://github.com/adagovorg/adagov-documentation/discussions)
 
 ## Overview
 This file is the main README file which provides the first overview of a repository.
@@ -36,3 +36,4 @@ The main participants in/contributors to [Project Name].
 
 ## License: 
 The Open-Source License - why you choose it and a link to it.
+[Apache License 2.0](https://github.com/stephen-rowan/adagov-documentation/blob/main/LICENSE.txt)
