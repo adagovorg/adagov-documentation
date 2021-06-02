@@ -19,15 +19,16 @@ This repository is both a store of documentation and training materials for Adag
 ## Description: 
 A short description of AdaGov.org. Why it is useful and what it does.
 
-## Table of Contents: 
-A optional table of contents for longer README files.
+## Current Activity :
+The focus of current activity is drafting a Code of Conduct
+- [Discussion of the draft Code of Conduct](https://github.com/adagovorg/adagov-documentation/discussions/19)
 
 ## Contributing: 
 A summary of how to contribute with a link to a more detailed Contribution file.
 
 ## Credits: 
-The main participants in/contributors to [Project Name].
+The main participants in/contributors to Adagov.org.
 
 ## License: 
-The Open-Source License - why you choose it and a link to it.
-[Apache License 2.0](https://github.com/stephen-rowan/adagov-documentation/blob/main/LICENSE.txt)
+The Open-Source License is [Apache License 2.0](https://github.com/stephen-rowan/adagov-documentation/blob/main/LICENSE.txt) - why you choose it.
+
