@@ -6,33 +6,16 @@
 
 ... Diversity ensures that a community does not stagnate into a monoculture of identity or thought.
 
-"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/adagovorg/adagov-documentation/blob/main/Documents/Reference/Project-Catalyst/01-Catalyst-Community-Moderation-Guidelines.md#citizenship).
+"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#citizenship).
 
 ## Our Standards - Disagree without being disagreeable
 
-Catalyst emphasizes good intent - whilst the contributor covenant is more prescriptive.
+Catalyst Community Moderation Guidelines emphasize good intent.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+The Contributor Covenant is more prescriptive.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+The Contribute Covenant gives [examples of behaviour](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Contributor-Covenant-Code%20of%20Conduct.md#our-standards) that contribute to a postive environment (such as Demonstrating empathy and kindness, Being respectful of differing opinions, Accepting responsibility and Focusing on what is best for the overall community) and examples of unacceptable behavior (such as use of sexualized language or imagery, Trolling, insulting or derogatory comments, harassment, publishing private information and inappropriate conduct).
 
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
 
 ## Enforcement Responsibilities
 
