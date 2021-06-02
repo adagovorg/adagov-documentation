@@ -6,7 +6,7 @@
 
 ... Diversity ensures that a community does not stagnate into a monoculture of identity or thought.
 
-"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/adagovorg/adagov-documentation/blob/main/Documents/Reference/Project-Catalyst/01-Catalyst-Community-Moderation-Guidelines.md#citizenship).
+"... evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity" - Citizenship, [Catalyst Community Moderation Guidelines](https://github.com/stephen-rowan/adagov-documentation/blob/main/Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#citizenship).
 
 ## Our Standards - Disagree without being disagreeable
 
