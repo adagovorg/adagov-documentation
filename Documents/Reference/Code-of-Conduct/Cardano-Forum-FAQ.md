@@ -20,10 +20,10 @@ Always look to add value. Discussion should be healthy and informative and membe
 
 You may wish to respond to something by disagreeing with it. That’s fine. But remember to criticise ideas, not people. Please avoid:
 
-    Name-calling
-    Ad hominem attacks
-    Responding to a post’s tone instead of its actual content
-    Knee-jerk contradiction
+- Name-calling
+- Ad hominem attacks
+- Responding to a post’s tone instead of its actual content
+- Knee-jerk contradiction
 
 Instead, provide reasoned counter-arguments that improve the conversation.
 
@@ -88,8 +88,8 @@ If you have trouble logging into your account, contact us at community@cardano.o
 
 If any of these rules are broken, the Forum moderators can perform the following sanctions:
 
-    Silence: Users will be able to login and otherwise interact, but cannot post or start new topics. Silence periods can range from a few days to a few weeks depending on the severity of the violation.
-    Suspend: If users continue to violate rules, they will be suspended which restricts them from logging in.
+- Silence: Users will be able to login and otherwise interact, but cannot post or start new topics. Silence periods can range from a few days to a few weeks depending on the severity of the violation.
+- Suspend: If users continue to violate rules, they will be suspended which restricts them from logging in.
 
 ## Powered by You
 
