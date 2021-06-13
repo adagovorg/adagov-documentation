@@ -23,4 +23,12 @@ The Contributor Covenant characterises security in terms of [Enforcement Respons
 
 ## Remediation / Enforcement
 
-Catalyst Community Moderation Guidelines emphasises *Create a level playing field* and describes enforcement as [Remediation](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#remediation). The levels of *Remediation* escalate from a *Reminder of guidelines*, through *First warning*, then a *Temporary ban* through to a *Permanent ban*.
+Catalyst Community Moderation Guidelines emphasises *Create a level playing field* and describes enforcement as [Remediation](Documents/Reference/Code-of-Conduct/Catalyst-Community-Moderation-Guidelines.md#remediation). 
+
+### Levels of Remediation
+
+The levels of *Remediation* escalate from :
+1) a *Reminder of guidelines*,
+2) through *First warning*, 
+3) then a *Temporary ban* 
+4) through to a *Permanent ban*.
